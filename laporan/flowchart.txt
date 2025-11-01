@@ -1,0 +1,1 @@
+mulai -> menyiapkan alat/bahan -> menyambungkan alat -> buka CMD, chrome, winbox -> memblokir situs -> berhasil/gagal -> berhasil -> selesai | gagal -> cek blokir -> try blokir -> selesai
